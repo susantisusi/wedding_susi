@@ -533,7 +533,7 @@ ul.social-slide li i.mac{
   height:14px;
   width:14px;
   display:inline-block;
-	background: #023373;
+	background: #A33900;
   border-radius: 30px;
   -webkit-border-radius: 30px;
   -moz-border-radius: 30px;
@@ -541,7 +541,7 @@ ul.social-slide li i.mac{
   -ms-border-radius: 30px;
 }
 .callbacks_here a:after{
-	background: #F54D4D;	
+	background: #ebb181;	
 }
 /*-- Slider part Ends Here --*/
 /*-- to-top --*/
