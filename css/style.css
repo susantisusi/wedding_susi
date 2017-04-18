@@ -8,7 +8,7 @@ body{
 	margin:0;
 	}
 .banner{
-	background:url("../images/white.jpg") repeat;
+	background:url("../images/white1.jpg") repeat;
 	min-height:400px;
 	}
 .wrap{
@@ -22,7 +22,7 @@ margin:0 auto;
 	}
 .article-right{
 float:right;
-width:36%;
+width:30%;
 }
 .article-right img{
 width:100%;
@@ -31,13 +31,11 @@ width:100%;
 padding-top: 66px;
 }
 .logo {
-	background:url("../images/blue.png") no-repeat 0px 0px;
-	background-size:cover;
 	-webkit-background-size: cover;
 	-o-background-size: cover;
 	-ms-background-size: cover;
 	-moz-background-size: cover;
-	min-height: 200px;
+	min-height: 250px;
 }
 .logo-img a {
 display: block;
@@ -49,7 +47,7 @@ margin:0 auto;
 .logo-img{
 width:37%;
 margin:0 auto;
-padding: 48px 0 0 0;
+padding: 0 0 0 0;
 }
 .navigation{
 	background:url("../images/nav.png") no-repeat 0px 0px;
